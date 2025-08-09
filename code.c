@@ -1,9 +1,4 @@
 
-
-											/* King Fahd University of Petrolium  and Minerals
-                                                        ICS-103-69-Final Project
-   														    Selling System */
-                                                
                       /* This program will store and caculate the item,bill prices , and will add different staffs for different bills.
                       In adiition, it will concentrate on adding prices abd printing the results in the standard output(monitor) and of 
                                    files.This simple program contains simple functions and is runnung using C++ Conpiler*/
